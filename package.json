@@ -1,0 +1,19 @@
+{
+  "name": "2048ai",
+  "version": "1.0.0",
+  "description": "2048 game ai platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Alex Chen",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "multer": "^1.3.0",
+    "socket.io": "^2.0.4"
+  }
+}
